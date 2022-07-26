@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndvelick
+- 👋 Hi, I’m @velicknd
 - 👀 I’m interested in data science, geography, etc.
 - 🌱 I’m currently learning machine learning, advanced GIS, etc.
 - 💞️ I’m looking to collaborate on n/a.
