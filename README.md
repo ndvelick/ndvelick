@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @velicknd
-- 👀 I’m interested in data science, geography, etc.
-- 🌱 I’m currently learning machine learning, advanced GIS, etc.
-- 💞️ I’m looking to collaborate on n/a.
-- 📫 How to reach me: n/a.
+Hi, I'm Noah Velick (he/they). 
+I'm a senior in college, studying geography and data science.
+Welcome to my GitHub page!
 
 <!---
 svelick/svelick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
