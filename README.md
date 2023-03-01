@@ -1,6 +1,4 @@
-Hi, I'm Noah Velick (he/they). 
-I'm a senior in college, studying geography and data science.
-Welcome to my GitHub page!
+Hi, I'm Noah (he/they)!
 
 <!---
 svelick/svelick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
